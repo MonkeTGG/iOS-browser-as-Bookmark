@@ -45,3 +45,11 @@ html, body {
         height: 40px;
         object-fit: contain;
       }
+      .searchButton {
+        border: none;
+        outline: none;
+        background: #fff;
+        /* border-radius: 10px; */
+        padding: 0 8px;
+        box-sizing: border-box;
+      }
